@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "paper"
+version = "0.1.0"
+description = "Improvement of multi-feature SVM model for epileptic foci localisation"
+authors = ["Bartłomiej Chybowsi <b.chybowski@gmail.com>", "Petr Klimeš <klimes@isibrno.cz>"]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.10"
+pandas = "^1.3.4"
+numpy = ">=1.17,<1.21"
+scipy = "^1.7.2"
+scikit-learn = "^1.0.1"
+matplotlib = "^3.5.0"
+seaborn = "^0.11.2"
+statsmodels = "^0.13.1"
+tqdm = "^4.62.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
