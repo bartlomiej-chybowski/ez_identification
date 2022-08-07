@@ -1,15 +1,15 @@
 [tool.poetry]
-name = "paper"
-version = "0.1.0"
-description = "Improvement of multi-feature SVM model for epileptic foci localisation"
-authors = ["Bartłomiej Chybowsi <b.chybowski@gmail.com>", "Petr Klimeš <klimes@isibrno.cz>"]
+name = "EZ_identification"
+version = "0.0.1"
+description = "Epileptogenic zone identification"
+authors = ["Bartłomiej Chybowski <b.s.chybowski@sms.ed.ac.uk>", "Petr Klimeš <klimes@isibrno.cz>"]
 
 [tool.poetry.dependencies]
-python = ">=3.9,<3.10"
-pandas = "^1.3.4"
-numpy = ">=1.17,<1.21"
+python = ">=3.10,<3.11"
+pandas = "^1.5"
+numpy = "^1.24"
 scipy = "^1.7.2"
-scikit-learn = "^1.0.1"
+scikit-learn = "^1.2"
 matplotlib = "^3.5.0"
 seaborn = "^0.11.2"
 statsmodels = "^0.13.1"

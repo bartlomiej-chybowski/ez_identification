@@ -131,12 +131,10 @@ dmypy.json
 .idea/
 
 *.pkl
-/report.html
-/report_sample.html
 *.aux
 *.bbl
 *.blg
-/report_v2.html
 /output/*
-/output_img/
-/output_*
+!/output/.gitkeep
+/input/*
+!/input/.gitkeep
