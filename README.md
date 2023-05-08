@@ -1,6 +1,8 @@
 # Epileptogenic zone identification
 
-[![DOI](https://zenodo.org/badge/DOI/DOI.NUMBER/zenodo.NUMBER.svg)](https://doi.org/DOI.NUMBER/zenodo.NUMBER)
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7906344.svg)](https://doi.org/10.5281/zenodo.7906344)
 [![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is 
 only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
 
